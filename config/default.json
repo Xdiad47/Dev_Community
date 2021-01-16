@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://diadem:diadem@gamecommunity.z6hq3.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "964f1788485efc72f6e0",
+  "githubSecret": "9183ededf77795a61e72b5ca98ca3d70751a69b3"
+}
